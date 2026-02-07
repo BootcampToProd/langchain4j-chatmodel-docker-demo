@@ -1,0 +1,12 @@
+spring:
+  application:
+    name: langchain4j-chatmodel-docker-demo
+
+langchain4j:
+  open-ai:
+    chat-model:
+      base-url: http://localhost:12434/engines/llama.cpp/v1    # Connects to the LLM running inside Docker
+      api-key: "does-not-matter"                               # Placeholder key (required by LangChain4j ignored by local model)
+      model-name: docker.io/gemma3:1B-Q4_K_M                   # Target model identifier (must match the loaded model in your Docker)
+      log-requests: true                                       # Enable logging to see requests (useful for debugging)
+      log-responses: true                                      # Enable logging to see responses (useful for debugging)
