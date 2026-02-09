@@ -6,7 +6,17 @@ This repository demonstrates how to connect a LangChain4j application to a local
 👉 [**LangChain4j ChatModel Listeners: A Complete Guide**](https://bootcamptoprod.com/langchain4j-with-docker/)
 
 🎥 **Video Tutorial**: Prefer hands-on learning? Watch our step-by-step implementation guide.<br>
-👉 YouTube Tutorial - Coming Soon!!
+👉 YouTube Tutorial - [**Connect LangChain4j to Docker AI Models**](https://youtu.be/vb_t-jjghD8)
+
+<p align="center">
+  <a href="https://youtu.be/vb_t-jjghD8">
+    <img src="https://img.youtube.com/vi/vb_t-jjghD8/0.jpg" alt="Connect LangChain4j to Docker AI Models" />
+  </a>
+</p>
+
+<p align="center">
+  ▶️ <a href="https://youtu.be/vb_t-jjghD8">Watch on YouTube</a>
+</p>
 
 ---
 
